@@ -1,7 +1,7 @@
 # Merhaba! Ben Derya Güçlüer 💫  
 ### Geleceğin Veri Bilimcisi | Python & Veri Analizi Tutkunu
 
-Ben Derya, Türkiye'den veri bilimi yolculuğuna adım atmış, istatistik ve matematik temelli projelerle kendini geliştiren tutkulu bir öğrenci/yazılımcıyım. Python, Pandas ve veri görselleştirme araçlarıyla çalışmayı seviyor; veriden anlam çıkarmanın büyüsüne inanıyorum.  
+Ben Derya, Türkiye'den veri bilimi yolculuğuna adım atmış, istatistik ve matematik temelli projelerle kendini geliştiren tutkulu bir öğrenciyim. Python, Pandas ve veri görselleştirme araçlarıyla çalışmayı seviyor; veriden anlam çıkarmanın büyüsüne inanıyorum.  
 Veriyi anlamlandırmak, görselleştirmek ve faydaya dönüştürmek benim için bir yaşam biçimi.  
 
 - 📊 Pandas & Matplotlib ile veri analizi  
