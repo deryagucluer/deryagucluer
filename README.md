@@ -32,6 +32,7 @@ Amacım; temiz veri, anlamlı analiz, güçlü sunum.
 
 📧 E-posta: deryagucluerr@gmail.com  
 🔗 LinkedIn: (https://www.linkedin.com/in/derya-g%C3%BC%C3%A7l%C3%BCer-576b71342/).
+
 📊 Kaggle: (https://www.kaggle.com/deryagucluer) (aktif projelerim yakında burada!).
 
 
