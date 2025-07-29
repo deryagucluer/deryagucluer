@@ -30,9 +30,10 @@ Amacım; temiz veri, anlamlı analiz, güçlü sunum.
 
 ## 📫 Bana Ulaşın
 
-📧 E-posta: derya.veribilimi@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/derya-gucluer)  
+📧 E-posta: deryagucluerr@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/derya-g%C3%BC%C3%A7l%C3%BCer-576b71342/). 
 📊 [Kaggle](https://www.kaggle.com/deryagucluer) (aktif projelerim yakında burada!)
+
 
 ---
 
